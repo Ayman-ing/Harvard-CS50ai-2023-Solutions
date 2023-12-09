@@ -4,6 +4,8 @@ This repository contains solutions to the CS50ai  projects. If you intend to tak
   before viewing the solutions.
 This course has a zero-tolerance plagiarism policy.
 
-## Week 1
+## Week 
 
 ### Projects
+- [degrees](degrees)
+- [Tic-Tac-Toe](tictactoe)
