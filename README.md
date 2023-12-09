@@ -9,7 +9,7 @@ This course has a zero-tolerance plagiarism policy.
 ### Projects
 - [degrees](degrees)
 - [Tic-Tac-Toe](tictactoe)
-
+- ![Image Description](tictactoe/image.png)
 
 ## Week 1
 
