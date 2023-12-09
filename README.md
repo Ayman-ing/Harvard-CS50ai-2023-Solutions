@@ -16,3 +16,5 @@ This course has a zero-tolerance plagiarism policy.
 ### Projects
 - [Knights](knights)
 - [Minesweeper](minesweeper)
+- ![Image Description](minesweeper/Minesweeper_9x9_10_example_13.png)
+
