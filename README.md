@@ -17,4 +17,7 @@ This course has a zero-tolerance plagiarism policy.
 - [Knights](knights)
 - [Minesweeper](minesweeper)
 <img src="minesweeper/image.png" alt="Image Description" width="300"/>
+## Week 2
 
+### Projects
+- [Page Rank](pagerank)
