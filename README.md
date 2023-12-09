@@ -9,12 +9,12 @@ This course has a zero-tolerance plagiarism policy.
 ### Projects
 - [degrees](degrees)
 - [Tic-Tac-Toe](tictactoe)
-<img src="tictactoe/image.png" alt="Image Description" width="200"/>
+<img src="tictactoe/image.png" alt="Image Description" width="300"/>
 
 ## Week 1
 
 ### Projects
 - [Knights](knights)
 - [Minesweeper](minesweeper)
-- ![Image Description](minesweeper/image.png)
+<img src="minesweeper/image.png" alt="Image Description" width="300"/>
 
