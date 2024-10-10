@@ -24,3 +24,9 @@ This course has a zero-tolerance plagiarism policy.
 - [Heredity](heredity)
 <img src="heredity/image.png" alt="Image Description" width="300"/>
 
+## Week 3
+
+### Projects
+- [Crossword](crossword)
+<img src="crossword/image.png" alt="Image Description" width="300"/>
+
