@@ -31,3 +31,20 @@ This course has a zero-tolerance plagiarism policy.
 - [Crossword](crossword)
 <img src="crossword/image.png" alt="Image Description" width="300"/>
 
+## Week 4
+
+### Projects
+- [Shopping](shopping)
+- [Nim](nim)
+
+## Week 5
+
+### Projects
+- [Traffic](traffic)
+
+## Week 6
+
+### Projects
+- [Parser](Parser)
+- [Attention](attention)
+
