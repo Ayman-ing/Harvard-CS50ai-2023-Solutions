@@ -22,5 +22,5 @@ This course has a zero-tolerance plagiarism policy.
 ### Projects
 - [Page Rank](pagerank)
 - [Heredity](heredity)
-  <img src="heredity/image.png" alt="Image Description" width="300"/>
+<img src="heredity/image.png" alt="Image Description" width="300"/>
 
