@@ -45,6 +45,6 @@ This course has a zero-tolerance plagiarism policy.
 ## Week 6
 
 ### Projects
-- [Parser](Parser)
+- [Parser](parser)
 - [Attention](attention)
 
